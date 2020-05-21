@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6u30PEIdikOEkBoykCriaQAAAAACAAAAAAAQZgAAAAEAACAAAAAbY+w9SL/Pmwk69g0+LyOtaQLCrEWUJq9vvCkD048ytgAAAAAOgAAAAAIAACAAAACy6dK4VK1ojzDkaKhHm1jooyWBEfSC+ZnAqn8pxa8mBIAAAADRiRFEHtACBH54eUFMv/NwiDZUoH8jCcA0D2pbC0oxHsub4pB3d2jKcknl2nRgOoDbMBDFFEJePF5WHIAHjlBLUByuAyt6yeOhzazDB5D1UCIOtP8tDO3tV8fGasFcPnUIW17KXWd/JHxb3dES007ZaSMzt+VV7BtJ7RTnoAMwq0AAAAAM0CEs8M9a6vtTjzE4omSHjAlstyV9DiJg1pe0cvguKeErKXNwhd1n8hDJRTo1swSGoRLns+1RrdVQ2I4ceE7a</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzuraDatabase">
+      <Value>Data Source=bayramerentestest.database.windows.net%3bUser ID=bayram%3bPassword=Bayer1991%3bInitial Catalog=SampleIdentityDB%3bConnect Timeout=30%3bEncrypt=True%3bTrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

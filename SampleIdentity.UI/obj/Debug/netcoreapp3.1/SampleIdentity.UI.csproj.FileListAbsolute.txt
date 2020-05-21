@@ -1,0 +1,498 @@
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\package.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Views\obj\project.assets.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Views\obj\Views.csproj.nuget.dgspec.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.exe
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.deps.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.runtimeconfig.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.runtimeconfig.dev.json
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.pdb
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.Views.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.Views.pdb
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csprojAssemblyReference.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorAssemblyInfo.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorAssemblyInfo.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.AssemblyInfoInputs.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.AssemblyInfo.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.TagHelpers.input.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.TagHelpers.output.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorCoreGenerate.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorTargetAssemblyInfo.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorTargetAssemblyInfo.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.Views.pdb
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csproj.CopyComplete
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\staticwebassets\SampleIdentity.UI.StaticWebAssets.Manifest.cache
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\staticwebassets\SampleIdentity.UI.StaticWebAssets.xml
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.dll
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.pdb
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+D:\AspNetCore\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Views\obj\project.assets.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Views\obj\Views.csproj.nuget.dgspec.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.exe
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.deps.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.runtimeconfig.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.runtimeconfig.dev.json
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.pdb
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.Views.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.Views.pdb
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.TagHelpers.input.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.TagHelpers.output.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorCoreGenerate.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleAssign.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Roles.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogIn.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPassword.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPasswordConfirm.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\AccessDenied.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\PasswordChange.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\UserEdit.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\_MemberLayout.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.Views.pdb
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csproj.CopyComplete
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\staticwebassets\SampleIdentity.UI.StaticWebAssets.Manifest.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\staticwebassets\SampleIdentity.UI.StaticWebAssets.xml
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.dll
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.pdb
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Editor.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Manager.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Admin.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Claims.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\GiresunPage.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\ViolencePage.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Views\obj\project.assets.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Views\obj\Views.csproj.nuget.dgspec.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.exe
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.deps.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.runtimeconfig.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.pdb
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.Views.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\SampleIdentity.UI.Views.pdb
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.AssemblyInfo.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.TagHelpers.input.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.TagHelpers.output.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorCoreGenerate.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Claims.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\PasswordChange.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleAssign.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Roles.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogIn.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Policy.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPassword.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPasswordConfirm.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\AccessDenied.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Admin.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Editor.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Exchange.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\GiresunPage.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\Manager.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\PasswordChange.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\UserEdit.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\ViolencePage.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Member\_MemberLayout.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.Views.pdb
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csproj.CopyComplete
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\staticwebassets\SampleIdentity.UI.StaticWebAssets.Manifest.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\staticwebassets\SampleIdentity.UI.StaticWebAssets.xml
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.dll
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.pdb
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.genruntimeconfig.cache
+C:\Users\Hp\Desktop\SampleIdentity.UI\SampleIdentity.UI\obj\Debug\netcoreapp3.1\SampleIdentity.UI.csprojAssemblyReference.cache
